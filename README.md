@@ -17,7 +17,7 @@ mvn package
 
 ## 参考资料
 
-参考了诸多大佬的文章和工具，如
+参考了诸多大佬的文、工具、思路，如
 
 https://github.com/CrackerCat/JSPHorse
 
