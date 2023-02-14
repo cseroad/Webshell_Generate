@@ -7,7 +7,7 @@
 ## 使用说明
 直接下载releases版即可
 
-![image-20220519102709278](images/:Users:cseroad:typora:java高级:images:image-20220519102709278.png)
+![image-20220519102709278](images/Snipaste_2023-02-14_10-20-38.jpg)
 
 
 
