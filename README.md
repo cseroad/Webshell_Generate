@@ -7,7 +7,7 @@
 ## 使用说明
 直接下载releases版即可
 
-![image-20220519102709278](images/Snipaste_2023-02-14_10-20-38.jpg)
+![image-20220519102709278](images/Snipaste_2023-02-25_14-29-13.jpg)
 
 
 
