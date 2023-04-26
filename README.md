@@ -16,6 +16,10 @@
 - 兼容java.util 和 sun.misc 两个包
 
 - jsp部分将404状态码修改为按钮，默认返回200状态码
+
+- 新增AntSword_jspjs无jsp标签webshell
+
+- 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshell
 ## 参考资料
 
 参考了诸多大佬的文章、工具、思路，如
