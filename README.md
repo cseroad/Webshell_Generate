@@ -39,7 +39,6 @@ http://yzddmr6.com/posts/jsp-webshell-upload-bypass/
 https://xz.aliyun.com/t/10937 
 
 
+## Star History
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/cseroad/Webshell_Generate.svg)](https://starchart.cc/cseroad/Webshell_Generate)
+[![Star History Chart](https://api.star-history.com/svg?repos=cseroad/Webshell_Generate&type=Date)](https://star-history.com/#cseroad/Webshell_Generate&Date)
