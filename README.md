@@ -19,7 +19,9 @@
 
 - 新增AntSword_jspjs无jsp标签webshell
 
-- 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshell
+- 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshel
+
+- 优化部分免杀代码
 ## 参考资料
 
 参考了诸多大佬的文章、工具、思路，如
@@ -35,3 +37,9 @@ https://github.com/pureqh/Troy
 http://yzddmr6.com/posts/jsp-webshell-upload-bypass/
 
 https://xz.aliyun.com/t/10937 
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/cseroad/Webshell_Generate.svg)](https://starchart.cc/cseroad/Webshell_Generate)
