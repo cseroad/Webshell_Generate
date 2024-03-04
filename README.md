@@ -22,6 +22,10 @@
 - 新增asmx_Godzilla_CSHAP_ASMX_AES_BASE64 webshel
 
 - 优化部分免杀代码
+
+## 2024.3.2更新
+
+
 ## 参考资料
 
 参考了诸多大佬的文章、工具、思路，如
