@@ -25,6 +25,9 @@
 
 ## 2024.3.2更新
 
+- 优化部分免杀代码
+- jsp部分通过OrderClassLoaders类调用defineClass方法
+
 
 ## 参考资料
 
